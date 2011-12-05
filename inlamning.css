@@ -1,0 +1,114 @@
+*{
+	display: block;
+}
+class {
+border: 2px solid black;
+width: 600px;
+border-radius: 16px; 
+margin: auto;
+margin-top: 20px;
+}
+
+ras, info {
+	font-size: 25px;
+	color: blue;
+	display: inline;
+	margin-left: 5px;
+}
+
+ras[id="tauren"], info[id="druid"]{
+	font-size: 25px;
+	color: orange;
+	display: inline;
+	margin-left: 5px;
+}
+
+ras[id="orc"], info[id="death"]{
+	font-size: 25px;
+	color: red;
+	display: inline;
+	margin-left: 5px;
+}
+
+ras[id="dranei"], info[id="paladin"]{
+	font-size: 25px;
+	color: #FF0066;
+	display: inline;
+	margin-left: 5px;
+}
+
+role{
+	font-size: 15px;
+	color: red;
+	display: inline;
+}
+
+specs{
+	margin-left: 20px;
+}
+
+namn[id="frost"]{
+	font-size: 22px;
+	color: #33CCFF;
+}
+ability{
+	margin-left: 25px;
+	border-left: 1px solid black;
+	padding-left: 10px;
+	color:	#686868;
+}
+
+namn[id="arcane"]{
+	font-size: 22px;
+	color: #FF0099;
+}
+
+namn[id="fire"]{
+	font-size: 22px;
+	color: #FF6600;
+}
+
+namn[id="Feral"]{
+	color: #FF9933;
+	font-size: 22px;
+}
+
+namn[id="Balance"]{
+	font-size: 22px;
+	color: #660000;
+}
+
+namn[id="Restoration"]{
+	font-size: 22px;
+	color: #00FF00;
+}
+
+namn[id="unholy"]{
+	font-size: 22px;
+	color: green;
+}
+
+namn[id="blood"]{
+	font-size: 22px;
+	color: red;
+}
+
+namn[id="frostdk"]{
+	font-size: 22px;
+	color: blue;
+}
+
+namn[id="holy"]{
+	font-size: 22px;
+	color: #990099;
+}
+
+namn[id="retri"]{
+	font-size: 22px;
+	color: red;
+}
+
+namn[id="prot"]{
+	font-size: 22px;
+	color: #990000;
+}
